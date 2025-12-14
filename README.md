@@ -20,7 +20,7 @@
 
 ## 🚀 About Us
 
-Welcome to the digital home of **Synexus**. We are a specialized software studio that brings the reliability of corporate banking systems into the world of gaming servers.
+Welcome to the digital home of **Synexus**. We are a specialized software studio that brings the reliability of corporate systems into the world of gaming servers.
 
 We believe that high-scale Minecraft networks deserve the same level of engineering as enterprise software. Our mission is to eliminate lag, synchronize data seamlessly, and build professional tools for server owners who mean business.
 
